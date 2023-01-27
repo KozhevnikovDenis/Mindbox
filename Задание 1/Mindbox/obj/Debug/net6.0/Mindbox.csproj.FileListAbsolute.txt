@@ -1,0 +1,24 @@
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\bin\Debug\net6.0\Mindbox.deps.json
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\bin\Debug\net6.0\Mindbox.dll
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\bin\Debug\net6.0\Mindbox.pdb
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.csproj.AssemblyReference.cache
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfoInputs.cache
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfo.cs
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.csproj.CoreCompileInputs.cache
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.dll
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\refint\Mindbox.dll
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\Mindbox.pdb
+C:\Users\kozhe\source\repos\Mindbox\Mindbox\obj\Debug\net6.0\ref\Mindbox.dll
+D:\Mindbox\Задание 1\Mindbox\bin\Debug\net6.0\Mindbox.deps.json
+D:\Mindbox\Задание 1\Mindbox\bin\Debug\net6.0\Mindbox.dll
+D:\Mindbox\Задание 1\Mindbox\bin\Debug\net6.0\Mindbox.pdb
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.csproj.AssemblyReference.cache
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfoInputs.cache
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfo.cs
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.csproj.CoreCompileInputs.cache
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.dll
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\refint\Mindbox.dll
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\Mindbox.pdb
+D:\Mindbox\Задание 1\Mindbox\obj\Debug\net6.0\ref\Mindbox.dll
